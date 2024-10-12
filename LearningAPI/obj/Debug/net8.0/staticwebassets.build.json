@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "O3UCrRW0ofc99cbuMTT0yylUdh/8audxTZLcQk0/Gb4=",
+  "Source": "LearningAPI",
+  "BasePath": "_content/LearningAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LearningAPI\\wwwroot",
+      "Source": "LearningAPI",
+      "ContentRoot": "D:\\Code\\Csharp\\ASP_API\\LearningAPI\\LearningAPI\\wwwroot\\",
+      "BasePath": "_content/LearningAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Code\\Csharp\\ASP_API\\LearningAPI\\LearningAPI\\wwwroot\\image\\entityframework.png",
+      "SourceId": "LearningAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Code\\Csharp\\ASP_API\\LearningAPI\\LearningAPI\\wwwroot\\",
+      "BasePath": "_content/LearningAPI",
+      "RelativePath": "image/entityframework.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\entityframework.png"
+    }
+  ]
+}

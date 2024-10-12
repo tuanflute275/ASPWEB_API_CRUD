@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Csharp\\ASP_API\\LearningAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{635F81C3-1344-4F11-9935-8C7E896FB77C}|LearningAPI\\LearningAPI.csproj|d:\\code\\csharp\\asp_api\\learningapi\\learningapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635F81C3-1344-4F11-9935-8C7E896FB77C}|LearningAPI\\LearningAPI.csproj|solutionrelative:learningapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635F81C3-1344-4F11-9935-8C7E896FB77C}|LearningAPI\\LearningAPI.csproj|d:\\code\\csharp\\asp_api\\learningapi\\learningapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635F81C3-1344-4F11-9935-8C7E896FB77C}|LearningAPI\\LearningAPI.csproj|solutionrelative:learningapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635F81C3-1344-4F11-9935-8C7E896FB77C}|LearningAPI\\LearningAPI.csproj|d:\\code\\csharp\\asp_api\\learningapi\\learningapi\\models\\viewmodel\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635F81C3-1344-4F11-9935-8C7E896FB77C}|LearningAPI\\LearningAPI.csproj|solutionrelative:learningapi\\models\\viewmodel\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635F81C3-1344-4F11-9935-8C7E896FB77C}|LearningAPI\\LearningAPI.csproj|d:\\code\\csharp\\asp_api\\learningapi\\learningapi\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635F81C3-1344-4F11-9935-8C7E896FB77C}|LearningAPI\\LearningAPI.csproj|solutionrelative:learningapi\\models\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635F81C3-1344-4F11-9935-8C7E896FB77C}|LearningAPI\\LearningAPI.csproj|d:\\code\\csharp\\asp_api\\learningapi\\learningapi\\models\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{635F81C3-1344-4F11-9935-8C7E896FB77C}|LearningAPI\\LearningAPI.csproj|solutionrelative:learningapi\\models\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\Code\\Csharp\\ASP_API\\LearningAPI\\LearningAPI\\Models\\DTO\\ProductDto.cs",
+              "RelativeDocumentMoniker": "LearningAPI\\Models\\DTO\\ProductDto.cs",
+              "ToolTip": "D:\\Code\\Csharp\\ASP_API\\LearningAPI\\LearningAPI\\Models\\DTO\\ProductDto.cs",
+              "RelativeToolTip": "LearningAPI\\Models\\DTO\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T04:59:16.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Code\\Csharp\\ASP_API\\LearningAPI\\LearningAPI\\Models\\Domain\\Product.cs",
+              "RelativeDocumentMoniker": "LearningAPI\\Models\\Domain\\Product.cs",
+              "ToolTip": "D:\\Code\\Csharp\\ASP_API\\LearningAPI\\LearningAPI\\Models\\Domain\\Product.cs",
+              "RelativeToolTip": "LearningAPI\\Models\\Domain\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T04:33:51.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "D:\\Code\\Csharp\\ASP_API\\LearningAPI\\LearningAPI\\Models\\ViewModel\\ProductModel.cs",
+              "RelativeDocumentMoniker": "LearningAPI\\Models\\ViewModel\\ProductModel.cs",
+              "ToolTip": "D:\\Code\\Csharp\\ASP_API\\LearningAPI\\LearningAPI\\Models\\ViewModel\\ProductModel.cs",
+              "RelativeToolTip": "LearningAPI\\Models\\ViewModel\\ProductModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T04:33:48.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Code\\Csharp\\ASP_API\\LearningAPI\\LearningAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "LearningAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Code\\Csharp\\ASP_API\\LearningAPI\\LearningAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "LearningAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwBoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T04:27:09.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Code\\Csharp\\ASP_API\\LearningAPI\\LearningAPI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "LearningAPI\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Code\\Csharp\\ASP_API\\LearningAPI\\LearningAPI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "LearningAPI\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwBsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T03:59:23.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
